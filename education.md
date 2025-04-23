@@ -17,7 +17,7 @@ nav-menu: true
     <p>I am currently a third-year Computer Science student at <strong>Ho Chi Minh City University of Education</strong>.</p>
     <ul>
       <li><strong>Degree:</strong> Bachelor of Computer Science</li>
-      <li><strong>Duration:</strong> 2021 – Present</li>
+      <li><strong>Duration:</strong> 2022 – Present</li>
       <li><strong>GPA:</strong> 2.81 / 4.0</li>
     </ul>
 
