@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Thai Bao's Portfolio
+title: Home
 landing-title: 'Welcome to Thai Bao's Portfolio'
 description: null
 image: null
