@@ -6,11 +6,10 @@ description: Welcome to my personal portfolio, showcasing my projects and skills
 baseurl: "" # Set to empty since your site is at the root
 url: "https://TThaiBao0510.github.io" # Your GitHub Pages URL
 author: Thai Bao
-street_address: Your Street Address
-city: Your City
-state: Your State
-zip_code: Your Zip Code
-country: Your Country
+street_address: Ben Van Don
+city: Ho Chi Minh City
+district: 04
+country: Viet Nam
 phone: 0362505934
 
 # homepage tiles
