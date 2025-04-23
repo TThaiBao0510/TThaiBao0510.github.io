@@ -11,7 +11,7 @@ city: Your City
 state: Your State
 zip_code: Your Zip Code
 country: Your Country
-phone: Your Phone Number
+phone: 0362505934
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
