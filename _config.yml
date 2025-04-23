@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Thai Bao's Portfolio
+subtitle: A Personal Website
+email: 4801104012@student.hcmue.edu.vn
+description: Welcome to my personal portfolio, showcasing my projects and skills.
+baseurl: "" # Set to empty since your site is at the root
+url: "https://TThaiBao0510.github.io" # Your GitHub Pages URL
+author: Thai Bao
+street_address: Your Street Address
+city: Your City
+state: Your State
+zip_code: Your Zip Code
+country: Your Country
+phone: Your Phone Number
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/TThaiBao0510
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn:
+  Twitter:
   Facebook:
   Slack:
 
@@ -41,4 +41,4 @@ exclude:
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md
-- README.md 
+- README.md
