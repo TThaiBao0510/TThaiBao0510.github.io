@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "forty_jekyll_theme"
   spec.version       = "1.2"
   spec.authors       = ["Thai Bao"]
-  spec.email         = ["thaibao0510@example.com"]
+  spec.email         = ["4801104012@student.hcmue.edu.vn"]
 
   spec.summary       = %q{A Jekyll version of the "Forty" theme by HTML5 UP, customized for Thai Bao's portfolio.}
   spec.homepage      = "https://TThaiBao0510.github.io/"
