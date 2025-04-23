@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Thai Bao's Portfolio
+landing-title: 'Welcome to Thai Bao's Portfolio'
 description: null
 image: null
 author: null
